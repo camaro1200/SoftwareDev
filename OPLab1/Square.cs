@@ -65,9 +65,9 @@ namespace OPLab1
             c.color = "orange";
         }
 
-        public void setYellowNewFeature2()
+        public void setGreenNewFeature2()
         {
-            c.color = "yellow";
+            c.color = "green";
         }
 
         public static void StupidMethod(int x)
