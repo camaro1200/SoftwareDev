@@ -1,0 +1,17 @@
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1Test.deps.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1Test.runtimeconfig.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1Test.runtimeconfig.dev.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1Test.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1Test.pdb
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/bin/Debug/netcoreapp2.2/OPLab1.pdb
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.csprojAssemblyReference.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.csproj.CoreCompileInputs.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.AssemblyInfoInputs.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.AssemblyInfo.cs
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.csproj.CopyComplete
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1Test/obj/Debug/netcoreapp2.2/OPLab1Test.pdb

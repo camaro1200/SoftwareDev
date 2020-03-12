@@ -1,0 +1,11 @@
+/Users/paulshaburov/Documents/OPLab1/OPLab1/bin/Debug/netcoreapp2.2/OPLab1.deps.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1/bin/Debug/netcoreapp2.2/OPLab1.runtimeconfig.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1/bin/Debug/netcoreapp2.2/OPLab1.runtimeconfig.dev.json
+/Users/paulshaburov/Documents/OPLab1/OPLab1/bin/Debug/netcoreapp2.2/OPLab1.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1/bin/Debug/netcoreapp2.2/OPLab1.pdb
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.csprojAssemblyReference.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.csproj.CoreCompileInputs.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.AssemblyInfoInputs.cache
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.AssemblyInfo.cs
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.dll
+/Users/paulshaburov/Documents/OPLab1/OPLab1/obj/Debug/netcoreapp2.2/OPLab1.pdb
